@@ -2,5 +2,6 @@
 it's a simple code for fun
 you can add other mods & music yourself
 by MHC
---------------------------
-I'm just a kid :<
+---------------------
+
+MHC is a kid :>
