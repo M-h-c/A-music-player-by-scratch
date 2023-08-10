@@ -3,4 +3,4 @@ it's a simple code for fun
 you can add other mods & music yourself
 by MHC
 --------------------------
-notice: V0.1.0 is lost
+I'm just a kid :<
